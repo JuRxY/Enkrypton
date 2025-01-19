@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="./assets/sshot1.png">
+    <img align="center" src="./assets/sshot1.png" style="border-radius: 20px;">
 </p>
 
 ## Requirements
