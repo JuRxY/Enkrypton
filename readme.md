@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="./assets/icon.png" height="180px" style="border-radius: 20px;"> 
+    <img align="center" src="./assets/icon.png" height="180px" style="border-radius: 50px;"> 
 </p>
 
 <h1 align="center">Enkrypton</h1>
