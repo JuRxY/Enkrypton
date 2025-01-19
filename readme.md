@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="./assets/icon.png" height="180px">
+    <img align="center" src="./assets/icon.png" height="180px" style="border-radius: 20px;"> 
 </p>
 
 <h1 align="center">Enkrypton</h1>
@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="./assets/sshot1.png" style="border-radius: 20px;">
+    <img align="center" src="./assets/sshot1.png">
 </p>
 
 ## Requirements
